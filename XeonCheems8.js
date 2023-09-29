@@ -2982,7 +2982,7 @@ await replygcxeon(`Please Type The Option\n\nExample: ${prefix + command} on\nEx
                 await replygcxeon(`Done`)
             }
             break
-case 'add': {
+case 'adhd': {
 if (!m.isGroup) return XeonStickGroup()
 if (!isBotAdmins) return XeonStickBotAdmin()
 if (!XeonTheCreator) return XeonStickOwner()
